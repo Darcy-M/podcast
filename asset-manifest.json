@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/podcast/static/js/main.a3e439c8.js",
+    "index.html": "/podcast/index.html",
+    "main.a3e439c8.js.map": "/podcast/static/js/main.a3e439c8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a3e439c8.js"
+  ]
+}
